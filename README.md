@@ -2,6 +2,8 @@
 
 A lightweight, no-frills scoreboard app for keeping track of two teams' scores in real time. Built with plain HTML, CSS, and JavaScript — no frameworks, no build step.
 
+![Scoreboard screenshot](docs/screenshot.png)
+
 **Live demo:** [tallyitup.netlify.app](https://tallyitup.netlify.app/)
 
 ## Features
