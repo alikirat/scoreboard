@@ -49,7 +49,7 @@ The live version is deployed on [Netlify](https://www.netlify.com/). Any static 
 
 ## License
 
-No license specified yet — all rights reserved by default. Add a `LICENSE` file if you'd like to open this up for reuse.
+MIT — see [LICENSE](LICENSE) file for details.
 
 ## Author
 
