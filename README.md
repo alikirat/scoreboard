@@ -1,6 +1,6 @@
 # Scoreboard
 
-A lightweight, no-frills scoreboard app for keeping track of two teams' scores in real time. Built with plain HTML, CSS, and JavaScript — no frameworks, no build step.
+A lightweight, no-frills scoreboard app for keeping track of two teams' scores in real time. Built with plain HTML, CSS, and JavaScript. No frameworks, no build step.
 
 ![Scoreboard screenshot](docs/screenshot.png)
 
@@ -10,7 +10,7 @@ A lightweight, no-frills scoreboard app for keeping track of two teams' scores i
 
 - Two independent scoreboards (Team 1 / Team 2)
 - Quick score adjustment buttons: `+1`, `+2`, `+3`, `-1`, `-2`, `-3`
-- Clean, distraction-free interface — good for pickup games, trivia nights, or any head-to-head match you need to tally on the fly
+- Clean, distraction-free interface: good for pickup games, trivia nights, or any head-to-head match you need to tally on the fly
 - Custom display font for a scoreboard/arcade feel
 
 ## Getting Started
@@ -24,7 +24,7 @@ No build tools or dependencies required.
    ```
 2. Open `index.html` in your browser.
 
-That's it — the app runs entirely client-side.
+That's it. The app runs entirely client-side.
 
 ## Usage
 
@@ -49,7 +49,7 @@ The live version is deployed on [Netlify](https://www.netlify.com/). Any static 
 
 ## License
 
-MIT — see [LICENSE](LICENSE) file for details.
+MIT. See [LICENSE](LICENSE) file for details.
 
 ## Author
 
